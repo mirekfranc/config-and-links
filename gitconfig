@@ -1,0 +1,26 @@
+[user]
+	name = Miroslav Franc
+	email = mfranc@gmx.com
+[alias]
+	l = log --oneline
+	ll = log --pretty=fuller
+	st = status
+	ci = commit
+	co = checkout
+        pr = pull --rebase
+	br = branch -vv
+	ba = branch -a
+	logg = log --graph --all
+	nm = log --no-merges
+	sh = shortlog -n -s
+	ds = diff --staged
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = auto
+[push]
+	default = simple
+[diff]
+        renames = true
