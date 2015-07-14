@@ -3,3 +3,5 @@ username = Miroslav Franc <mfranc@gmx.com>
 verbose = True
 [extensions]
 color =
+[diff]
+git = True
