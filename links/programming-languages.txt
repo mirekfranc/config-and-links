@@ -1,0 +1,4 @@
+### resource management ###
+https://en.wikipedia.org/wiki/Dispose_pattern
+https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization
+https://en.wikipedia.org/wiki/Exception_safety
