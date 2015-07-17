@@ -1,7 +1,12 @@
 ### idioms ###
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-Virtual_Interface
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Interface_Class
+
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Capability_Query
+
 https://en.wikibooks.org/wiki/C%2B%2B_Programming/Idioms#Pointer_To_Implementation
+
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-throwing_swap
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Copy-and-swap
+
+https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
