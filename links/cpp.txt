@@ -10,3 +10,7 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-throwing_swap
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Copy-and-swap
 
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
+
+### gotchas ###
+# function template specializations don't overload
+http://www.gotw.ca/publications/mill17.htm
