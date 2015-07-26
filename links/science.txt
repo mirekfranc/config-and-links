@@ -1,2 +1,12 @@
 ### news ###
 http://mosaicscience.com/
+
+### Dark Sky ###
+http://darksky.org/
+https://en.wikipedia.org/wiki/International_Dark-Sky_Association
+https://twitter.com/IDADarkSky
+http://www.blue-marble.de/nightlights/2010
+http://www.globeatnight.org/
+
+### Weather Forecast ###
+http://radar.bourky.cz/

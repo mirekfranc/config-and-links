@@ -14,6 +14,9 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
 ### blogs ###
 https://blog.feabhas.com/
 http://pfultz2.com/blog/
+http://cpp.indi.frih.net/blog/
+http://blog.knatten.org/
+http://olvemaudal.com/
 
 ### libraries ###
 # Boost Generic Image Library
@@ -26,6 +29,8 @@ https://www.wxwidgets.org/
 http://www.sfml-dev.org/
 # Boost DOCs
 http://www.boost.org/doc/libs/1_58_0/
+# The CLmg Library
+http://cimg.eu/
 
 ### cheatsheets ###
 # STL Algorithms
@@ -47,7 +52,13 @@ http://cppquiz.org/
 ### links ###
 https://cpp.zeef.com/faraz.fallahi
 https://isocpp.org/
+http://www.stroustrup.com/
+http://www.stepanovpapers.com/
 
 ### gotchas ###
 # function template specializations don't overload
 http://www.gotw.ca/publications/mill17.htm
+
+### tutorials ###
+http://www.opengl-tutorial.org/
+https://open.gl/introduction
