@@ -11,6 +11,42 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Copy-and-swap
 
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
 
+### blogs ###
+https://blog.feabhas.com/
+http://pfultz2.com/blog/
+
+### libraries ###
+# Boost Generic Image Library
+http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html
+# OpenCV
+http://opencv.org/
+# wxWidgets
+https://www.wxwidgets.org/
+# Simple and Fast Multimedia Library
+http://www.sfml-dev.org/
+# Boost DOCs
+http://www.boost.org/doc/libs/1_58_0/
+
+### cheatsheets ###
+# STL Algorithms
+https://cs50.harvard.edu/resources/cppreference.com/cppalgorithm/
+# Super FAQ
+https://isocpp.org/faq
+# CPP reference
+http://en.cppreference.com/w/
+# C++11
+https://en.wikipedia.org/wiki/C%2B%2B11
+# C++14
+https://en.wikipedia.org/wiki/C%2B%2B14
+# C++17
+https://en.wikipedia.org/wiki/C%2B%2B17
+
+### quizes ###
+http://cppquiz.org/
+
+### links ###
+https://cpp.zeef.com/faraz.fallahi
+
 ### gotchas ###
 # function template specializations don't overload
 http://www.gotw.ca/publications/mill17.htm
