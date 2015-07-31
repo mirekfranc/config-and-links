@@ -1,0 +1,5 @@
+### interactive ###
+http://gcc.godbolt.org/
+
+### implementation details ###
+http://www.ciselant.de/projects/gcc_printf/gcc_printf.html
