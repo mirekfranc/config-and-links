@@ -1,5 +1,9 @@
 ### interactive ###
 http://gcc.godbolt.org/
+http://www.cdecl.org/
 
 ### implementation details ###
 http://www.ciselant.de/projects/gcc_printf/gcc_printf.html
+
+### linkers and loaders ###
+http://www.iecc.com/linker/

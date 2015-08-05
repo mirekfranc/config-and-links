@@ -12,11 +12,13 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Copy-and-swap
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
 
 ### blogs ###
+http://preshing.com/
 https://blog.feabhas.com/
 http://pfultz2.com/blog/
 http://cpp.indi.frih.net/blog/
 http://blog.knatten.org/
 http://olvemaudal.com/
+http://herbsutter.com/
 
 ### libraries ###
 # Boost Generic Image Library

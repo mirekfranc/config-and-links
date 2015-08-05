@@ -1,0 +1,11 @@
+### BASH Frequently Asked Questions ###
+http://mywiki.wooledge.org/BashFAQ
+
+### Advanced Bash-Scripting Guide ###
+http://tldp.org/LDP/abs/html/index.html
+
+### The Bash-Hackers Wiki ###
+http://wiki.bash-hackers.org/doku.php
+
+### SED & AWK ###
+http://docstore.mik.ua/orelly/unix2.1/sedawk/index.htm
