@@ -12,6 +12,7 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Copy-and-swap
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Scope_Guard
 
 ### blogs ###
+http://codesynthesis.com/~boris/blog/
 http://preshing.com/
 https://blog.feabhas.com/
 http://pfultz2.com/blog/
