@@ -20,6 +20,7 @@ http://cpp.indi.frih.net/blog/
 http://blog.knatten.org/
 http://olvemaudal.com/
 http://herbsutter.com/
+http://brnz.org/hbr/
 
 ### libraries ###
 # Boost Generic Image Library
