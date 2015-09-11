@@ -6,6 +6,7 @@ set pastetoggle=<F10>
 set linebreak       " lbr
 set ignorecase      " ic
 set nohlsearch      " nohls
+set t_ti= t_te=     " not altscreen
 
 nmap <F8> :set invhlsearch<CR>
 nmap <F9> :setlocal invspell spelllang=en<CR>
