@@ -1,0 +1,7 @@
+# https://github.com/alacritty/alacritty-theme
+import:
+ - ~/.config/alacritty/themes/themes/xterm.yaml
+window:
+ opacity: 0.5
+selection:
+ semantic_escape_chars: ",:│`|\"' ()[]{}<>\t"
