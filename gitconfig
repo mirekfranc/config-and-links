@@ -1,26 +1,33 @@
 [user]
-	name = Miroslav Franc
-	email = mfranc@gmx.com
+        name = Miroslav Franc
+        email = mfranc@gmx.com
 [alias]
-	l = log --oneline
-	ll = log --pretty=fuller --stat
-	st = status
-	ci = commit
-	co = checkout
+        l = log --oneline
+        ll = log --pretty=fuller --stat
+        st = status
+        ci = commit
+        co = checkout
         pr = pull --rebase
-	br = branch -vv
-	ba = branch -a
-	logg = log --graph --all
-	nm = log --no-merges
-	sh = shortlog -n -s
-	ds = diff --staged
+        br = branch -vv
+        ba = branch -a
+        logg = log --graph --all
+        nm = log --no-merges
+        sh = shortlog -n -s
+        d = diff
+        ds = diff --staged
 [color]
-	diff = auto
-	status = auto
-	branch = auto
-	interactive = auto
-	ui = auto
+        diff = auto
+        status = auto
+        branch = auto
+        interactive = auto
+        ui = auto
 [push]
-	default = simple
+        default = simple
 [diff]
-	renames = true
+        renames = true
+[merge]
+        tool = ediff
+[mergetool "ediff"]
+        cmd = emacsclient -c -a \"\" --eval \"(ediff-merge-files-with-ancestor \\\"$LOCAL\\\" \\\"$REMOTE\\\" \\\"$BASE\\\" nil \\\"$MERGED\\\")\"
+[core]
+        pager = less -FRX
